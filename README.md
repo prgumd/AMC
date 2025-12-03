@@ -12,7 +12,7 @@
 * `generate_videos.sh`: Generate videos (excluding Adobe) (non-motion capture sequences) 
 
 ## Data
-The raw record data is available [here](). Extract it into the root of this repository
+The raw record data is available [here](https://drive.google.com/file/d/1XEgPUvLfYYPCyPr9qqqxEewofeAc-RFO/view?usp=sharing). Extract it into the root of this repository
 
 ## Dependencies
 * `vme_research`: A minimal version of an internal library used by the group for robotics research. To install run: `pip install -e ./vme_research` from the root of this repository.
