@@ -1,6 +1,6 @@
 # Artifical Microsaccade Compensation: Stable Vision for an Ornithopter
 
-[Webpage](https://prg.cs.umd.edu/AMC), [arXiv](https://prg.cs.umd.edu/research/AMC_files/Artificial%20Microsaccade%20Compensation.pdf)
+[Webpage](https://prg.cs.umd.edu/AMC), [arXiv](https://arxiv.org/abs/2512.03995)
 
 ## Contents
 * `rotation_stabilize.py`: Rotation stabilization algorithm
